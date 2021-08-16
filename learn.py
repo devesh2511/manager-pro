@@ -1,1 +1,1 @@
-print("learning is fun")
+print("learning is stress")
